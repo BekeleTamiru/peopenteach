@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://tesing.org/testng-1.0.dtd">
+<suite name="Regression test">
+<test  name="pitt">
+<Classes>
+<class name="open.java.RunFB"></class>
+<class name="open.java.BeginPage"></class>
+</Classes>
+</test>
+</suite>
