@@ -48,7 +48,7 @@ public class RunFB {
 		driver.get("http://facebook.com");
 		}
 		
-       	//this is Github code commit and push test
+       	//this is Github code commit and push test 2
        	@Test
        	void run() {
        		BeginPageFB exc = PageFactory.initElements(driver, BeginPageFB.class);
